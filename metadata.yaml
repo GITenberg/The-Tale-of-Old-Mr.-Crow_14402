@@ -14,6 +14,8 @@ creator:
 description: These books, as well as being good stories, teach the basic science of
   the animal and insect world through the lives of the characters and explore various
   animal characteristics, environments and predators.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14402#The-Tale-of-Old-Mr.-Crow
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2004-12-21'
 gutenberg_type: Text
